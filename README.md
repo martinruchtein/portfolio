@@ -3,7 +3,7 @@
 Welcome to my data portfolio, where I present key projects demonstrating my work in data analysis and analytics.
 
 ## 📚 Proyects
-- R(#r)
+- [R](#r)
 
 # R
 
